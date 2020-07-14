@@ -25,9 +25,9 @@ pip install pygame
 ### Follow me on : 
 
 <span><a href = "https://www.instagram.com/abhishek_7890/">
-<img src= "logo/instalogo.jpg" alt = 'Instagram' style = 'width:40px; height:40px; padding:16px;'></a><span>
+<img src= "logo/instalogo.jpg" alt = 'Instagram' style = 'width:10px; height:10px; padding:16px;'></a><span>
 <span><a href = "https://twitter.com/abhishek_borase/">
-<img src= "logo/twiterlogo.png" alt = 'Twitter' style = 'width:40px; height:40px; padding:16px;'></a><span>
+<img src= "logo/twiterlogo.png" alt = 'Twitter' style = 'width:10px; height:10px; padding:16px;'></a><span>
 
 
 Thank you !!!
